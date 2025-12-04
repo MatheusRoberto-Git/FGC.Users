@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FGC.Users.Application/FGC.Users.Application.csproj" />
+  <Project Path="FGC.Users.Domain/FGC.Users.Domain.csproj" />
+  <Project Path="FGC.Users.Infrastructure/FGC.Users.Infrastructure.csproj" />
+  <Project Path="FGC.Users.Presentation/FGC.Users.Presentation.csproj" />
+</Solution>
